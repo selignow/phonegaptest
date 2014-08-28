@@ -1,6 +1,6 @@
 // Play audio
 //
-
+alert("playmedia.js aufgerufen");
 url = "https://one.delius-books.de/sixcms/media.php/166/ENG%20108.mp3";
 function playAudio(url) {
     // Play the audio file at url
@@ -16,4 +16,5 @@ function playAudio(url) {
     );
     // Play audio
     my_media.play();
+    alert("playmedia.js funtion ende");
 }
