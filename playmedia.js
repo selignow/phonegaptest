@@ -17,7 +17,7 @@ function playAudio(url) {
     // Play audio
     my_media.play();
    
-}
+} 
+alert("playAudio function definiert");
+playAudio("DEU_ERW_108.mp3");
 
-playAudio("http://one.delius-books.de/sixcms/media.php/166/ENG%20108.mp3");
- alert("playmedia.js function ende" + (url));
