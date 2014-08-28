@@ -16,5 +16,8 @@ function playAudio(url) {
     );
     // Play audio
     my_media.play();
-    alert("playmedia.js funtion ende");
+   
 }
+
+playAudio(url);
+ alert("playmedia.js function ende" + (url));
