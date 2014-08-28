@@ -19,5 +19,5 @@ function playAudio(url) {
    
 } 
 alert("playAudio function definiert");
-playAudio("DEU_ERW_108.mp3");
+
 
