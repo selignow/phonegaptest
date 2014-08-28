@@ -22,7 +22,7 @@
 <!-- <gap:platform name="android" /> -->
 
 <preference name="orientation" value="default" />
-<preference name="fullscreen" value="true" />
+
 
 <icon src="icon.png" />
 

@@ -1,6 +1,6 @@
 // Play audio
 //
-alert("playmedia.js aufgerufen");
+//
 
 function playAudio(url) {
     // Play the audio file at url
@@ -20,4 +20,6 @@ function playAudio(url) {
 } 
 alert("playAudio function definiert");
 
+function bla() {alert("bla");}
 
+// alert('DEU_ERW_108.mp3')
